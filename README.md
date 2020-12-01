@@ -26,6 +26,8 @@ php artisan artem:parse 500 5 0.95 CCL
 Exmaple of output:
 
 ```
+$ php artisan artem:parse 500 15 0.95 CCL
+
 Start! Let's go!
 Scanning folder with Data...
 List of files (count: 1482 files)
